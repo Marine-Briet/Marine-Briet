@@ -13,20 +13,23 @@ Après avoir piloté des lancements de produits (des besoins consommateurs à la
 ## 🛠 Stack
 
 **Front-end** : React · Next.js · Vite.js · JavaScript · HTML5 · SCSS · Bootstrap
+
 **Back-end** : Node.js · Express · API REST · PHP (MVC) · Authentification JWT / bcrypt
+
 **Bases de données** : MySQL · PostgreSQL · MongoDB · Sequelize · Mongoose
+
 **Outils** : Git · GitHub · Figma · PHPUnit · PHPStan · Netlify · Render · Neon
 
 ---
 
 ## 🚀 Projets phares
 
-| Projet | Description | Stack | Démo |
-|---|---|---|---|
-| [**IndoKartu**](https://github.com/Marine-Briet/indokartu) | Application de flashcards mobile-first pour apprendre l'indonésien : sessions de révision, statistiques de progression, espace admin | React · Node.js · Express · MySQL · MongoDB · JWT | [Voir le site](https://indokartu.netlify.app) |
-| [**Trouve ton artisan**](https://github.com/Marine-Briet/trouve-ton-artisan) | Plateforme de mise en relation entre particuliers et artisans (région Auvergne-Rhône-Alpes), avec recherche et formulaire de contact | React · Bootstrap · Node.js · Express · MySQL | [Voir le site](https://trouve-ton-artisan-mb.netlify.app) |
-| [**Touche pas au klaxon**](https://github.com/Marine-Briet/covoit-touche-pas-au-klaxon) | Intranet de covoiturage entre sites d'une entreprise, avec tableau de bord administrateur | PHP (MVC sans framework) · MySQL · PHPUnit · PHPStan | — |
-| [**API Russell**](https://github.com/Marine-Briet/api-russell) | API privée de gestion des réservations d'un port de plaisance, avec authentification et interface de gestion | Node.js · Express · MongoDB · JWT | — |
+| Projet | Description | Stack |
+|---|---|---|
+| [**IndoKartu**](https://github.com/Marine-Briet/indokartu) | Application de flashcards mobile-first pour apprendre l'indonésien : sessions de révision, statistiques de progression, espace admin | React · Node.js · Express · MySQL · MongoDB · JWT |
+| [**Trouve ton artisan**](https://github.com/Marine-Briet/trouve-ton-artisan) | Plateforme de mise en relation entre particuliers et artisans (région Auvergne-Rhône-Alpes), avec recherche et formulaire de contact | React · Bootstrap · Node.js · Express · MySQL |
+| [**Touche pas au klaxon**](https://github.com/Marine-Briet/covoit-touche-pas-au-klaxon) | Intranet de covoiturage entre sites d'une entreprise, avec tableau de bord administrateur | PHP (MVC sans framework) · MySQL · PHPUnit · PHPStan |
+| [**API Russell**](https://github.com/Marine-Briet/api-russell) | API privée de gestion des réservations d'un port de plaisance, avec authentification et interface de gestion | Node.js · Express · MongoDB · JWT |
 
 ---
 
