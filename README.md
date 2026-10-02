@@ -1,18 +1,18 @@
 # Bonjour, moi c'est Marine 👋
 
-**Développeuse web full stack en formation**, avec deux ans d'expérience comme chef de produit junior et data analyst.
+**Développeuse web full stack · Formation DWWM validée**, avec deux ans d'expérience comme cheffe de produit junior et data analyst.
 
-Après avoir piloté des lancements de produits (des besoins consommateurs à la mise sur le marché), je me forme aujourd'hui au développement web.
+Après avoir piloté des lancements de produits et participé côté métier à la création d'un site e-commerce, je me suis reconvertie dans le développement web : j'ai été de l'autre côté du brief.
 
-🎓 Titre Professionnel Développeur Web et Web Mobile (niveau 5, bac+2) · Centre Européen de Formation
-🔎 **En recherche de stage** : 10 semaines au total, sur au moins deux structures, à partir de décembre 2026
+🎓 Formation Développeur web et web mobile validée (CEF) · Passage du Titre professionnel (niveau 5, bac+2) à l'issue des stages
+🔎 **En recherche de stage** : stage conventionné de 4 à 8 semaines, dès décembre 2026 · Métropole lilloise
 💡 Curiosité particulière pour la foodtech et la healthtech.
 
 ---
 
 ## 🛠 Stack
 
-**Front-end** : React · Vite.js · JavaScript · HTML5 · SCSS · Bootstrap
+**Front-end** : React · React Router · Vite.js · JavaScript · HTML5 · Sass · Bootstrap
 
 **Back-end** : Node.js · Express · API REST · PHP (MVC) · Authentification JWT / bcrypt
 
