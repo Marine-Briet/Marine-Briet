@@ -35,4 +35,4 @@ Après avoir piloté des lancements de produits et participé côté métier à 
 
 ## 📫 Me contacter
 
-[LinkedIn](https://linkedin.com/in/marine-briet-984359219/) · [marinebriet@hotmail.com](mailto:marinebriet@hotmail.com)
+[LinkedIn](https://linkedin.com/in/briet-marine/) · [marinebriet@hotmail.com](mailto:marinebriet@hotmail.com)
