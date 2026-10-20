@@ -5,7 +5,9 @@
 Après avoir piloté des lancements de produits et participé côté métier à la création d'un site e-commerce, je me suis reconvertie dans le développement web : j'ai été de l'autre côté du brief.
 
 🎓 Formation Développeur web et web mobile validée (CEF) · Passage du Titre professionnel (niveau 5, bac+2) à l'issue des stages
+
 🔎 **En recherche de stage** : stages conventionnés de 4 à 8 semaines, disponible dès le 23 novembre 2026 · Métropole lilloise
+
 💡 Curiosité particulière pour la foodtech et la healthtech.
 
 ---
