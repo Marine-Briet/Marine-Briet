@@ -6,7 +6,7 @@ Après avoir piloté des lancements de produits et participé côté métier à 
 
 🎓 Formation Développeur web et web mobile validée (CEF) · Passage du Titre professionnel (niveau 5, bac+2) à l'issue des stages
 
-🔎 **En recherche de stage** : stages conventionnés de 4 à 8 semaines, disponible dès le 23 novembre 2026 · Métropole lilloise
+🔎 **En recherche de stage** : stages conventionnés de 4 à 8 semaines · Métropole lilloise ou Nantes
 
 💡 Curiosité particulière pour la foodtech et la healthtech.
 
